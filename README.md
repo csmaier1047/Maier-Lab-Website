@@ -1,4 +1,5 @@
 # Maier Laboratory
+### Oregon State University
 
 ## Develop. Detect. Characterize. Quantify. Discover.
 
@@ -20,8 +21,6 @@ The Maier Lab is a member of the BENFRA Center, which was initially established 
 - Systems Mass Spectrometry
 - Diseases of Aging
 - Natural Products and Botanicals
-
-## Oregon State University
 
 Our mission: The Maier Laboratory develops analytical chemistry and mass spectrometry approaches to understand biological systemsto improve human and animal health.
   
