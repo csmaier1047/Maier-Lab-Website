@@ -14,7 +14,7 @@ The Maier Lab is a member of the BENFRA Center, which was initially established 
 
 https://nimss.org/projects/view/mrp/outline/18911
 
-[BENFRA Botanicaledu/benfra-bdsrc
+https://www.ohsu.edu/benfra-bdsrc
 
 https://ods.od.nih.gov/research/Dietary_Supplement_Research_Centers.aspx
 
