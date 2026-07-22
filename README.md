@@ -1,6 +1,6 @@
 # Maier Laboratory
 
-### Develop. Detect. Characterize. Quantify. Discover.
+## Develop. Detect. Characterize. Quantify. Discover.
 
 Welcome to the Maier Laboratory at Oregon State University.
 
