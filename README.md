@@ -12,7 +12,7 @@ We develop mass spectrometry technologies to detect, characterize, and quantify 
 We are a member of the agInnovation WEST multistate research project [W5122: Beneficial and Adverse Effects of Natural Chemicals on Human Health and Food Safety](https://nimss.org/projects/view/mrp/outline/18911).
 
 
-The Maier Lab is a member of the [BENFRA Center](www.ohsu.edu/benfra-bdsrc), and leads the Botanical Research Core.  The BENFRA Center (NIH grant # U19 AT010829) was established in 2020, as one of three national Botanical Dietary Supplements Research Centers funded by the National Center for Complementary and Integrative Health (NCCIH) and the Office of Dietary Supplements (ODS), as part of the NIH CARBON program.
+The Maier Lab is a member of the [BENFRA Center](https://www.ohsu.edu/benfra-bdsrc), and leads the Botanical Research Core.  The BENFRA Center (NIH grant # U19 AT010829) was established in 2020, as one of three national Botanical Dietary Supplements Research Centers funded by the National Center for Complementary and Integrative Health (NCCIH) and the Office of Dietary Supplements (ODS), as part of the NIH CARBON program.
 
 
 ## Research 
