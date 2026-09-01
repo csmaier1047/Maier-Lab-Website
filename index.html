@@ -45,14 +45,17 @@
         </p>
       </div>
       <figure class="hero-figure">
-        <svg viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stylized mass spectrum showing peaks of varying intensity across a mass-to-charge axis">
-          <line x1="20" y1="230" x2="400" y2="230" stroke="#B9C1BA" stroke-width="1"/>
-          <line x1="20" y1="20" x2="20" y2="230" stroke="#B9C1BA" stroke-width="1"/>
-          <polyline points="20,230 55,230 62,150 68,230 100,230 108,205 116,230 150,230 160,60 170,230 205,230 213,180 221,120 229,175 237,230 270,230 280,140 290,230 320,230 330,195 340,90 350,195 360,230 400,230"
-            fill="none" stroke="#0B6E58" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-          <text x="20" y="248" font-family="IBM Plex Sans, sans-serif" font-size="11" fill="#5C6660">m/z</text>
-          <text x="0" y="24" font-family="IBM Plex Sans, sans-serif" font-size="11" fill="#5C6660" transform="rotate(-90 12 120)">intensity</text>
-        </svg>
+        <div class="hero-figure-frame">
+          <img class="hero-bg-photo" src="images/hero-ion-source-inlet.jpg" alt="Close-up of a mass spectrometer ion source inlet, illuminated during operation">
+          <svg class="hero-spectrum-overlay" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stylized mass spectrum showing peaks of varying intensity across a mass-to-charge axis">
+            <line x1="20" y1="230" x2="400" y2="230" stroke="rgba(245,246,242,0.55)" stroke-width="1"/>
+            <line x1="20" y1="20" x2="20" y2="230" stroke="rgba(245,246,242,0.55)" stroke-width="1"/>
+            <polyline points="20,230 55,230 62,150 68,230 100,230 108,205 116,230 150,230 160,60 170,230 205,230 213,180 221,120 229,175 237,230 270,230 280,140 290,230 320,230 330,195 340,90 350,195 360,230 400,230"
+              fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+            <text x="20" y="248" font-family="IBM Plex Sans, sans-serif" font-size="11" fill="#F5F6F2">m/z</text>
+            <text x="0" y="24" font-family="IBM Plex Sans, sans-serif" font-size="11" fill="#F5F6F2" transform="rotate(-90 12 120)">intensity</text>
+          </svg>
+        </div>
         <figcaption>Every peak is a molecule waiting to be identified.</figcaption>
       </figure>
     </div>
@@ -125,7 +128,7 @@
         <div class="pi-avatar">CM</div>
         <div>
           <h3>Claudia S. Maier</h3>
-          <p class="role">Professor, Department of Chemistry &middot; Director, OSU Mass Spectrometry Center</p>
+          <p class="role">Professor, Department of Chemistry</p>
           <p>Claudia S. Maier is Professor in the Department of Chemistry at Oregon State
             University and an adjunct faculty in the Linus Pauling Institute. She earned her Ph.D. in
             Analytical Chemistry from the University of Konstanz. Her laboratory develops and
