@@ -415,6 +415,54 @@ nav.links a:hover { border-bottom-color: var(--teal); color: var(--teal); }
 /* ============================================
    Contact / footer
    ============================================ */
+section.contact-section {
+  padding: 0;
+  border-bottom: none;
+  position: relative;
+  overflow: hidden;
+  min-height: 460px;
+  display: flex;
+  align-items: center;
+}
+.contact-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+.contact-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.contact-scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(200deg, rgba(11,110,88,0.35), rgba(22,33,28,0.62));
+}
+.contact-wrap {
+  position: relative;
+  z-index: 1;
+  padding: 72px 32px;
+  width: 100%;
+}
+.contact-panel {
+  max-width: 620px;
+  background: rgba(251,251,249,0.9);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.6);
+  border-radius: 6px;
+  padding: 40px 44px;
+}
+.contact-panel .section-head { margin-bottom: 28px; }
+
+@media (max-width: 560px) {
+  .contact-panel { padding: 28px 24px; }
+  .contact-wrap { padding: 48px 20px; }
+  section.contact-section { min-height: 380px; }
+}
+
 .contact-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
